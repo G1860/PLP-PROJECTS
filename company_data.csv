@@ -1,0 +1,11 @@
+Region,Department,Employees,Revenue (KES)
+North,Sales,10,50000
+South,Sales,15,70000
+East,HR,8,30000
+West,HR,12,35000
+North,IT,7,40000
+South,IT,9,45000
+East,Finance,6,25000
+West,Finance,11,28000
+North,Sales,14,65000
+South,Finance,5,23000
